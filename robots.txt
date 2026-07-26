@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-gf4qae.originmovement.co.nz/sitemap.xml
